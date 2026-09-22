@@ -11,14 +11,15 @@
             "id": "4609dff411264fde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "SPLINT ESSA SEMANA.md",
-                "mode": "source",
-                "source": false
+                "aFile": "UwU/.obsidian/workspace.json",
+                "bFile": "UwU/.obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "SPLINT ESSA SEMANA"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Index)"
             }
           }
         ]
@@ -99,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPLINT ESSA SEMANA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPLINT ESSA SEMANA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +160,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPLINT ESSA SEMANA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -202,8 +200,8 @@
   "active": "4609dff411264fde",
   "lastOpenFiles": [
     "Comandos Dicas.md",
-    "trilha sonora suprema.md",
     "SPLINT ESSA SEMANA.md",
+    "trilha sonora suprema.md",
     "Bem-vindo.md",
     "Sem título 1.md"
   ]
