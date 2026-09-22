@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Teste"
             }
+          },
+          {
+            "id": "4609dff411264fde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teste2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teste2"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teste.md",
+                "file": "Teste2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teste.md",
+                "file": "Teste2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -190,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teste.md",
+                "file": "Teste2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,10 +242,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "219919da50615624",
+  "active": "4609dff411264fde",
   "lastOpenFiles": [
-    "Sem título 1.md",
     "Teste.md",
+    "Teste2.md",
+    "Sem título 1.md",
     "Bem-vindo.md"
   ]
 }
