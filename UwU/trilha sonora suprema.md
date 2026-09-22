@@ -1,14 +1,14 @@
-dark souls 3 musica tema, essa é bomba
-the search
-courtesy call
-x prime
-judas
-protection charm
-murder in may mind é uma clássica
-red memory-silksong
-red maiden
-dream battle-hollow Knight
-greymoor-silksong
-soul sanctum-hollow
-the chouir
+- dark souls 3 musica tema, essa é bomba
+- the search
+- courtesy call
+- x prime
+- judas
+- protection charm
+- murder in may mind é uma clássica
+- red memory-silksong
+- red maiden
+- dream battle-hollow Knight
+- greymoor-silksong
+- soul sanctum-hollow
+- the chouir
 
