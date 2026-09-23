@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c04058c6f9e33e26",
+        "id": "832697dca5c3aa5c",
         "type": "tabs",
         "children": [
           {
-            "id": "4609dff411264fde",
+            "id": "ab768abcdd12fed1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "UwU/.obsidian/workspace.json",
-                "bFile": "UwU/.obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Splint Semana-4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Index)"
+              "icon": "lucide-file",
+              "title": "Splint Semana-4"
             }
           }
         ]
@@ -100,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SPLINT ESSA SEMANA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SPLINT ESSA SEMANA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -160,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "SPLINT ESSA SEMANA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,10 +199,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4609dff411264fde",
+  "active": "ab768abcdd12fed1",
   "lastOpenFiles": [
+    "Splint Semana-4.md",
     "Comandos Dicas.md",
-    "SPLINT ESSA SEMANA.md",
     "trilha sonora suprema.md",
     "Bem-vindo.md",
     "Sem título 1.md"
